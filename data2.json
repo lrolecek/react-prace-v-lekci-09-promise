@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Alena",
+		"age": 19,
+		"hair": "green",
+		"married": false,
+		"friends": [
+			"Jana",
+			"Eva",
+			"Petr"
+		]
+	},
+	{
+		"name": "Eliska",
+		"age": 43,
+		"hair": "purple",
+		"married": true,
+		"friends": [
+			"Jana"
+		]
+	}
+]
