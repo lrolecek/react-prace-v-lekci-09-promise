@@ -1,1 +1,1 @@
-# react-prace-v-lekci-09-promise
+# Opakování fetch a promise
